@@ -1,0 +1,9 @@
+{
+  "short_name": "PD Viz",
+  "name": "PD Visualization Tool",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
